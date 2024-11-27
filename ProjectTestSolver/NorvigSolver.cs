@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Sudoku.Shared;
 
-namespace Sudoku.Shared
+namespace Sudoku.ProjectTestSolver
 //Norvig explication
 //La représentation des données : Les grilles de Sudoku sont représentées comme des dictionnaires associant chaque case à ses valeurs.
 //Élimination : Réduire les choix possibles pour chaque case en éliminant les valeurs déjà présentes dans sa ligne, colonne et carré.
